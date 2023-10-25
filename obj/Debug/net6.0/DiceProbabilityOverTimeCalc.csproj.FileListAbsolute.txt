@@ -1,0 +1,15 @@
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\bin\Debug\net6.0\DiceProbabilityOverTimeCalc.exe
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\bin\Debug\net6.0\DiceProbabilityOverTimeCalc.deps.json
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\bin\Debug\net6.0\DiceProbabilityOverTimeCalc.runtimeconfig.json
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\bin\Debug\net6.0\DiceProbabilityOverTimeCalc.dll
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\bin\Debug\net6.0\DiceProbabilityOverTimeCalc.pdb
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\obj\Debug\net6.0\DiceProbabilityOverTimeCalc.csproj.AssemblyReference.cache
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\obj\Debug\net6.0\DiceProbabilityOverTimeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\obj\Debug\net6.0\DiceProbabilityOverTimeCalc.AssemblyInfoInputs.cache
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\obj\Debug\net6.0\DiceProbabilityOverTimeCalc.AssemblyInfo.cs
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\obj\Debug\net6.0\DiceProbabilityOverTimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\obj\Debug\net6.0\DiceProbabilityOverTimeCalc.dll
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\obj\Debug\net6.0\refint\DiceProbabilityOverTimeCalc.dll
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\obj\Debug\net6.0\DiceProbabilityOverTimeCalc.pdb
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\obj\Debug\net6.0\DiceProbabilityOverTimeCalc.genruntimeconfig.cache
+C:\Users\nadav\Desktop\Owner\Scripts\DiceProbabilityOverTimeCalc\obj\Debug\net6.0\ref\DiceProbabilityOverTimeCalc.dll
