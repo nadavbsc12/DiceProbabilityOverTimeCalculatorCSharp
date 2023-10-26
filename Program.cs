@@ -165,8 +165,23 @@ namespace YourNamespace
             }
 
             string target = "Golden Warrior";
-            int runsNeeded = CalculateProbabilityUntilItem(target);
-            Console.WriteLine($"It took {runsNeeded} runs to get {target}.");
+            int maxSpins = 5000;
+            List<double> tempList = new List<double>();
+
+            for (int i = 0; i < maxSpins; i++)
+            {
+                double runsNeededNp = CalculateProbabilityUntilItem(target);
+                tempList.Add(runsNeededNp);
+            }
+
+            double finalResult = 0;
+            foreach (double val in tempList)
+            {
+                finalResult += val;
+            }
+            finalResult /= tempList.Count;
+
+            Console.WriteLine($"It took AVG {finalResult} (Based on 5000) runs to get {target}.");
         }
 
         static string GenerateItem()
